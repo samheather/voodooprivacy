@@ -1,3 +1,5 @@
+Instructions from: http://www.sarfata.org/posts/setting-up-an-amazon-vpn-server.md/
+
 Voodoo Privacy
 ==============
 
